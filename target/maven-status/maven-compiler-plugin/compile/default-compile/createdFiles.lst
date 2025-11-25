@@ -1,0 +1,4 @@
+com/gruposiete/backend/BackendApplication.class
+com/gruposiete/backend/controllers/PeliculaController.class
+com/gruposiete/backend/repositories/PeliculaRepository.class
+com/gruposiete/backend/models/Pelicula.class
